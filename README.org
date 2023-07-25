@@ -1,0 +1,10 @@
+* cl-gcrypt
+
+Common lisp bindings for libgcrypt
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gorozhin/cl-gcrypt.git   |
+| commit  | a75433f  |
+| systems | cl-gcrypt |
+|---------+-------------------------------------------|
+
